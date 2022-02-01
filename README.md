@@ -1,4 +1,4 @@
-# CHILLNN Contracted
+# CHILLNN Contract
 こちらは、CHILLNNの受託開発用のOrganizationです。
 repositoryは以下のように命名しましょう。
 ```
